@@ -1,0 +1,14 @@
+1.Matrix operations (Addition, subtraction and multiplication)
+2.Transpose of a matrix
+3.Upper triangular matrix or not
+4.Lower triangular matrix or not
+5.The maximum element in a row
+6.The maximum element in a column
+7.Sum of each row and column of a matrix
+8.Saddle point coordinates of a given matrix
+9.Sum of elements in the zig-zag sequence of a matrix
+10.Sum of boundary elements of a matrix
+11.Matrix printing in aspiral form
+12.Rotate the matrix by K times
+13.Matrix rotation by 90 degrees clockwise and anticlockwise
+14.Maximum size of square submatrix with all 1s in a binary matrix
