@@ -1,0 +1,20 @@
+1.Basic string operations
+2.Length of the string without using strlen() function
+3.Toggle each character in a string
+4.Count the number of vowels
+5.Remove vowels from a string
+6.String is a palindrome or not
+7.Sorting a string in alphabetical order
+8.Removing brackets from an algebraic expression
+9.Remove characters in a string except alphabets
+10.Remove spaces from a string
+11.Count the sum of numbers in a string
+12.Capitalize the first and last letter of each word of a string
+13.Frequency of characters in a string
+14.Non-repeating characters in a string
+15.Check if two strings are Anagram or not
+16.Patterns of 0(1+)0 in the given string
+17.Replace substring in a string
+18.Count common subsequence in two strings
+19.Reverse a string
+20.Check if two strings match where one string contains wildcard characters
