@@ -1,0 +1,9 @@
+1.Solid and hollow rectangle star pattern
+2.Pyramid pattern using stars
+3.Pyramid pattern using numbers
+4.Palindromic pyramid pattern printing
+5.Diamond pattern printing using stars
+6.Diamond pattern printing using numbers
+7.Floyd's triangle
+8.Pascal triangle
+9.All other pattern programs
