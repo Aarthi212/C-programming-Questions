@@ -1,0 +1,32 @@
+1.A character is a vowel or consonant
+2.A character is an alphabet or not
+3.Ascii values of a character
+4.Uppercase, Lowercase or special character
+5.A number is positive or negative
+6.A number is even or odd
+7.Swap two numbers without third variable
+8.Area of a circle
+9.LCM of two numbers
+10.GCD of two numbers
+11.Greatest of two numbers
+12.Greatest of three numbers
+13.Number of digits in an integer
+14.Sum of digits of a number
+15.Sum of N natural numbers
+16.Sum of numbers in a given range
+17.Reverse a given number
+18.Factorial of a number
+19.Fibonacci series up ton
+20.Leap year or not
+21.Prime number or not
+22.Palindrome or not
+23.Armstrong number or not
+24.Strong number or not
+25.Perfect number or not
+26.Friendly pair or not (amicable or not)
+27.Automorphic number or not
+28.Harshad number or not
+29.Abundant number or not
+30.Power of a number
+31.Factors of a number
+32.Add two fractions
